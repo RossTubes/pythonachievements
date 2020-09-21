@@ -1,0 +1,9 @@
+# Doel: voor en achternaam kunnen invoeren. De computer weergeeft mijn volledige naam.
+
+# input()
+# print()
+# variabelen
+
+naam = inpt("Wat is jouw voornaam?")
+naam = input()
+print(naam)

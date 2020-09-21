@@ -1,0 +1,29 @@
+vara = 5
+vara = 10
+
+if ( vara == 5 ):
+    print("vara staat gelijk aan 5")
+    print ("exact tab")
+else :
+    print("vara staat niet gelijk aan 5")
+
+if ( vara == varb ) :
+   print("vara staat gelijk aan varb")
+elif ( vara == 50 ) :
+   pass #Doe niks
+else :
+   print("Dan is vara groter dan varb")
+
+
+if ( false ):
+   print("Doe dit")
+
+
+varW = True
+varX = False
+varY = True
+varZ = True
+
+#  ( varW == True and varX == True or varY == True and varZ == True )
+#  ( 
+print("einde progamma") 
