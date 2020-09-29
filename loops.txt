@@ -1,0 +1,56 @@
+
+import random
+
+isRunning = True
+
+While ( isRunning ) :
+
+	print("HERHAAL DIT!")
+
+	num = random.randrange (5)
+	if (num == 4) :
+`	    IsRunning = False
+
+Else:
+    print (Ëinde eerste while-loop")
+
+lijstA = ["Tekst", 11, True, '#', 4,22 "Nog wat tekst"]
+lijstB = ["Dit","is", ëen", "lijst", "van", "tekst"]
+
+print ( lijstA )
+print ( lijstA[1] )
+
+lijstA[1] =23
+print( lijstA )
+
+print("----------------------------")
+
+for waarde in lijstB :
+	waarde = "leuk"
+	print(waarde)
+
+print( lijstB )
+
+print("---------------------------")
+
+print( "Lengte van lijstB is:", len(lijstB)  )
+
+for getal in range(5) :
+	print("Herhaal dit 5 keer, dit is iteratie:", getal)
+
+print("----------------------------")
+
+print ( lijstB )
+
+for index in range( len( lijstB ) ) :
+	print ( resultaat )
+
+for index in range ( len ( lijstB ) ):
+	print ( "Dit is index", index, "wat waarde", lijstB[index], ís")
+
+if ( lijsB[index] == "een" ):
+	lijstB[index] + "VERANDERD!"):
+	contine;
+
+print(waarde)
+

@@ -26,4 +26,5 @@ varZ = True
 
 #  ( varW == True and varX == True or varY == True and varZ == True )
 #  ( 
+
 print("einde progamma") 
