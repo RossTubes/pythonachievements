@@ -1,6 +1,11 @@
 Name = "Name: Jordan"
 print (Name)
-healthbar = "healthbar: 200"
+health = 77
+
+health += 60
+
+
+healthbar = "healthbar: "+ str(health)
 print (healthbar)
 attack = "attack: Fire breath"
 print (attack)
